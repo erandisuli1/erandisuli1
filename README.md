@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Erandi Suli
-- 👀 I’m interested in Just Learning
+- 👀 I’m interested only in Business!
 - 🌱 I’m currently learning Javascript & Python
-- 💞️ I’m looking to collaborate on PHP Projects
+- 💞️ I’m looking to collaborate on Nuxt or Vue Projects
 - 📫 How to reach me erandisuli@hotmail.com
 
 <!---
